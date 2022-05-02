@@ -1,0 +1,21 @@
+export const ROUTES = {
+  HOME: '/',
+  SIGNUP: '/signup',
+  LOGIN: '/login',
+  ACCOUNTINFORMATION: '/account-information',
+  CHANGEPASSWORD: '/change-password',
+  VERIFYUSER: '/verify-user',
+  NEWSUSERSAVED: '/news-user-saved',
+  PAGEPOST: '/pagepost',
+  AUTOLOGIN: '/autologin',
+  PAGEUPDATEPOST: '/page-post-update/:id',
+  AUTOSIGNUP: '/autosignup',
+  VIEWALLUSERPOST: "/view-all-user-post",
+  TRANSACTIONHISTORY: "/transaction-history",
+  PAYMENTRECORD: "/payment-record",
+  RESETPASSWORD: "/resetPassword",
+  REDIRECTLOGOUT: "/redirect-logout",
+  ACCOUNTBALANCE: "/account-balance",
+  VERIFYEMAIL: "/verifyEmail",
+  PAYMENTPAGE:"/payment-page"
+};
